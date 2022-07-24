@@ -1,7 +1,0 @@
-docs1
-model1
-docs2
-model2
-docs3
-model3
-model4
